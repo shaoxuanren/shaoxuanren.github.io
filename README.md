@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Shaoxuan Ren, PhD
 
 You can use the [editor on GitHub](https://github.com/shaoxuanren/shaoxuanren.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
