@@ -4,7 +4,33 @@ You can use the [editor on GitHub](https://github.com/shaoxuanren/shaoxuanren.gi
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Shaoxuan Ren, PhD
+### Education
+
+Master in Computer Science,
+University of Illinois Urbana-Champaign (since 2022)
+
+PhD in Physical Chemistry,
+University of British Columbia (since 2018)
+
+B.Sc. Hons, Chemistry
+University of Ottawa (2015-2018)
+
+### Experiences
+
+Subgroup Leader, Carbon team
+The Berlinguette group, UBC (since, 2019)
+
+Clean Energy Researcher
+The Berlinguette group, UBC (since, 2018)
+
+
+### Projects
+
+Self-driving Labs for Clean Energy Materials Discovery
+
+Big Data Analysis and Learning for Raman Spectroscopy 
+
+
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
