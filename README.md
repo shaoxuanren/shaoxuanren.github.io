@@ -1,5 +1,4 @@
-# ShaoxuanRen
-
+# Shaoxuan Ren, PhD
 
 ## Shaoxuan Ren, PhD
 
