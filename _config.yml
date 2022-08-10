@@ -9,7 +9,7 @@ baseurl:
 # Title of the Site
 title: Shao Ren, PhD
 # Description of the Site
-description: I build creative app to serve the planet
+description: I build creative Apps to serve the planet
 
 # URL of Image of the Site
 site-image: /WhatATheme/assets/images/meta.jpg
@@ -40,7 +40,7 @@ author-name: Shao Ren
 # URL for the Image of the Author
 author-image: './utilis/profile.jpeg'
 # 60 Words About the Author
-author-about: Hey! My name is Shao (he, him) and I'm currently a Master candidate in Computer Science at the University of Illinois Urbana-Champaign (UIUC). I'm a creative developer as well as a chemist! It's fun to combine this two different topics together, eh? During my PhD at UBC, I conducted research in Physical Chemistry and Robotic Chemistry. I have been fascinated by the power of Comp. Sci. in the past few years. Check out some papers I wrote/contributed to in my google scholar. Now I'm very excited to join the developer community to make a better world! 
+author-about:  Hey! My name is Shao (he, him), and I'm currently a Master candidate in Computer Science at the University of Illinois Urbana-Champaign (UIUC). I'm a creative developer as well as a chemist. During my Ph.D. at the University of British Columbia, I researched Physical Chemistry and Robotic Chemistry, a combination of CS and chemistry! I have been fascinated by the power of CS in the past few years. Check out some papers I wrote/contributed to in my Google scholar. Now I'm very excited to join the developer community to make a better world! 
 # URL to the Author's Profile (i.e., Github, Twitter, Stackoverflow, etc)
 author-url: https://github.com/shaoxuanren
 
